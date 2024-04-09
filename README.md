@@ -78,6 +78,12 @@ The program will start the collaborative development process among the AI agents
 
 3. **Continuous Integration and Deployment**: Agentic Workflow showcases how AI agents can be involved in the continuous integration and deployment process. It simulates the steps of updating dependencies, refactoring code, optimizing code, and deploying the final version.
 
+## Inspiring Projects
+
+-
+-
+-
+
 ## Contributing
 
 Contributions to Agentic Workflow are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
